@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(51, 196, 233);
+    /* width: center; */
+    text-align: center;
+    text-decoration: none;
+}
+.container{
+    border: 2px solid black;
+    width: 32%;
+    margin: auto;
+    background-color: rgb(107, 189, 163);
+    border-radius: 10px;
+    font-weight: 1000;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 5px 5px 5px grey;
+    border: none;
+}
+input{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+button{
+    background-color: #09f438;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
